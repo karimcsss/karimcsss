@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Karim Trabelsi"/>
+<img src="https://raw.githubusercontent.com/karimcsss/karimcsss/main/header.svg" width="100%" alt="Karim Trabelsi"/>
 
 <br/>
 
@@ -35,7 +35,7 @@
 
 <br/>
 
-<div align="center"><img src="assets/divider.svg" width="70%" alt=""/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/karimcsss/karimcsss/main/divider.svg" width="70%" alt=""/></div>
 
 <h2 align="center">🧠 About Me</h2>
 
@@ -71,7 +71,7 @@ My approach is **V1-first**: ship a working baseline, measure it honestly, then 
 
 <br/>
 
-<div align="center"><img src="assets/divider.svg" width="70%" alt=""/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/karimcsss/karimcsss/main/divider.svg" width="70%" alt=""/></div>
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
@@ -106,7 +106,7 @@ My approach is **V1-first**: ship a working baseline, measure it honestly, then 
 
 <br/>
 
-<div align="center"><img src="assets/divider.svg" width="70%" alt=""/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/karimcsss/karimcsss/main/divider.svg" width="70%" alt=""/></div>
 
 <h2 align="center">🤖 AI / ML Expertise</h2>
 
@@ -125,7 +125,7 @@ My approach is **V1-first**: ship a working baseline, measure it honestly, then 
 
 <br/>
 
-<div align="center"><img src="assets/divider.svg" width="70%" alt=""/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/karimcsss/karimcsss/main/divider.svg" width="70%" alt=""/></div>
 
 <h2 align="center">🚀 Featured Projects</h2>
 
@@ -261,7 +261,7 @@ An assistant that checks mathematical exercises by combining an **LLM** (reasoni
 
 <br/>
 
-<div align="center"><img src="assets/divider.svg" width="70%" alt=""/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/karimcsss/karimcsss/main/divider.svg" width="70%" alt=""/></div>
 
 <h2 align="center">💼 Experience</h2>
 
@@ -295,7 +295,7 @@ Pursuing a rigorous Applied Mathematics curriculum while building practical AI e
 
 <br/>
 
-<div align="center"><img src="assets/divider.svg" width="70%" alt=""/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/karimcsss/karimcsss/main/divider.svg" width="70%" alt=""/></div>
 
 <h2 align="center">📜 Certifications</h2>
 
@@ -326,7 +326,7 @@ Pursuing a rigorous Applied Mathematics curriculum while building practical AI e
 
 <br/>
 
-<div align="center"><img src="assets/divider.svg" width="70%" alt=""/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/karimcsss/karimcsss/main/divider.svg" width="70%" alt=""/></div>
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
@@ -343,7 +343,7 @@ Pursuing a rigorous Applied Mathematics curriculum while building practical AI e
 
 <br/>
 
-<div align="center"><img src="assets/divider.svg" width="70%" alt=""/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/karimcsss/karimcsss/main/divider.svg" width="70%" alt=""/></div>
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
@@ -355,7 +355,7 @@ Pursuing a rigorous Applied Mathematics curriculum while building practical AI e
 
 <br/>
 
-<div align="center"><img src="assets/divider.svg" width="70%" alt=""/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/karimcsss/karimcsss/main/divider.svg" width="70%" alt=""/></div>
 
 <h2 align="center">🎯 Current Focus</h2>
 
@@ -372,14 +372,14 @@ current_focus:
     - Fine-tuning and agentic solutions with Python
     - Applied mathematics for generative AI
   open_to:
-    - AI/ML and Data Science internships 
+    - AI/ML and Data Science internships
     - Work-study (alternance) in Python & AI
     - Research collaborations
 ```
 
 <br/>
 
-<div align="center"><img src="assets/divider.svg" width="70%" alt=""/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/karimcsss/karimcsss/main/divider.svg" width="70%" alt=""/></div>
 
 <h2 align="center">📫 Connect</h2>
 
@@ -399,4 +399,4 @@ current_focus:
 
 <br/>
 
-<img src="assets/footer.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/karimcsss/karimcsss/main/footer.svg" width="100%" alt=""/>

@@ -372,7 +372,7 @@ current_focus:
     - Fine-tuning and agentic solutions with Python
     - Applied mathematics for generative AI
   open_to:
-    - AI/ML and Data Science internships
+    - AI/ML and Data Science internships 
     - Work-study (alternance) in Python & AI
     - Research collaborations
 ```

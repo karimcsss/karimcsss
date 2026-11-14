@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 36" width="800" height="36" role="presentation" aria-hidden="true">
+  <defs>
+    <linearGradient id="l" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2F6FDE" stop-opacity="0"/>
+      <stop offset="1" stop-color="#2F6FDE" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="r" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2F6FDE" stop-opacity="1"/>
+      <stop offset="1" stop-color="#2F6FDE" stop-opacity="0"/>
+    </linearGradient>
+    <g id="star8">
+      <rect x="-9" y="-9" width="18" height="18"/>
+      <rect x="-9" y="-9" width="18" height="18" transform="rotate(45)"/>
+    </g>
+  </defs>
+  <style>
+    .pulse { animation: pulse 3.6s ease-in-out infinite; }
+    @keyframes pulse { 0%, 100% { opacity: 0.7; } 50% { opacity: 1; } }
+  </style>
+  <rect x="40" y="17" width="316" height="2" fill="url(#l)"/>
+  <rect x="444" y="17" width="316" height="2" fill="url(#r)"/>
+  <g fill="#8C5A3C">
+    <rect x="364" y="15" width="6" height="6" transform="rotate(45 367 18)"/>
+    <rect x="430" y="15" width="6" height="6" transform="rotate(45 433 18)"/>
+  </g>
+  <g class="pulse" transform="translate(400 18)" fill="#E0A23B">
+    <use xlink:href="#star8" href="#star8"/>
+  </g>
+  <circle cx="400" cy="18" r="3" fill="#0B1B3A"/>
+</svg>
